@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117360184867",
+    "firebase_url": "https://initerakhir-f5991.firebaseio.com",
+    "project_id": "initerakhir-f5991",
+    "storage_bucket": "initerakhir-f5991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117360184867:android:95b4555173ab96cb",
+        "android_client_info": {
+          "package_name": "id.ac.telkomuniversity.student.ayasnindya.raras_1202150255_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117360184867-8tsurk0491vojsdv6fqlbg1uphhifauc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F8sUoT_sdMUpMoys8FTFjMrsH0TGUPI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
